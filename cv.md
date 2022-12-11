@@ -4,8 +4,6 @@
 -------
 
 
-
-
 #### **Contacts:**
 - Gmail: nataturovets@gmail.com
 - GitHub: Natallia739
