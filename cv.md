@@ -6,7 +6,7 @@
 
 #### **Contacts:**
 - Gmail: nataturovets@gmail.com
-- GitHub: Natallia739
+- GitHub: Natallia739, https://github.com/Natallia739
 - LinkedIn: https://www.linkedin.com/in/natallia-turovets-16181a221/ 
 
 *********
