@@ -1,0 +1,16 @@
+@font-face {
+ font-family: CormorantGaramond-Bold;
+  src: url("assets/text styles/CormorantGaramond-Bold.ttf");
+}
+@font-face {
+ font-family: CormorantGaramond-Regular;
+  src: url("assets/text styles/CormorantGaramond-Regular.ttf");
+}
+@font-face {
+  font-family: PlayfairDisplaySC-Regular;
+  src: url("assets/text styles/PlayfairDisplaySC-Regular.ttf");
+}
+@font-face {
+  font-family: Raleway-VariableFont_wght;
+  src: url("assets/text styles/Raleway-VariableFont_wght.ttf");
+}
